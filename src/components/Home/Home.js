@@ -13,7 +13,7 @@ function Home() {
         <Paper className='audio-card' style={{ backgroundColor: "#9ADCFF" }} onClick={() => { navigate("/textarea") }}>
 
           <Typography>
-            Text Playground
+            Text Arena
           </Typography>
 
 

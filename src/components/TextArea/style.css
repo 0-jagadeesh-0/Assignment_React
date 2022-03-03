@@ -1,0 +1,15 @@
+.playground {
+    height: calc(100vh - 70px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-arena {
+    resize: none;
+    margin: 2% 0;
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+}
